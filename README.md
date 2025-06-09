@@ -13,7 +13,7 @@ Bushra Khan
 - Git & GitHub
 
 ## Links
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
+- [LinkedIn](www.linkedin.com/in/bushra-khan-7605ab28b)
+- [GitHub](https://github.com/Bushra-git)
 
 >>>>>>> 4993549 (Initial commit with README)
